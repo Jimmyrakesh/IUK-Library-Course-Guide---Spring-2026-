@@ -1,9 +1,8 @@
 # College of Arts
 
-The College of Arts offers programs in Arabic Language, English Language,
-Media and Communication, Sociology, Social Work, and Communication Disorders.
+This section contains course resource guides for the College of Arts.
 
-## Courses
-
-- [ARAB 101 – Principles of Arabic Grammar](../arts/arab-101.md)
-- ENGL 110 – English Composition I (To be added)
+- Arabic Language & Literature
+- English Language & Literature
+- Sociology & Social Services
+- Media & Communication
